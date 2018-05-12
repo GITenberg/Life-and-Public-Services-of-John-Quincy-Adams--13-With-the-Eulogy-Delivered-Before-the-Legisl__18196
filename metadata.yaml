@@ -1,0 +1,30 @@
+_repo: Life-and-Public-Services-of-John-Quincy-Adams--13-With-the-Eulogy-Delivered-Before-the-Legisl__18196
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seward, William Henry
+    birthdate: 1801
+    deathdate: 1872
+    gutenberg_agent_id: '7870'
+    url: http://www.gutenberg.org/2009/agents/7870
+    wikipedia: http://en.wikipedia.org/wiki/William_H._Seward
+description: ''
+gutenberg_issued: '2006-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18196'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'United States -- Politics and government -- 1825-1829'
+- !lcc 'E300'
+- !lcsh 'Adams, John Quincy, 1767-1848'
+title: "Life and Public Services of John Quincy Adams\r\nSixth President of the Unied\
+  \ States\r\nWith the Eulogy Delivered Before the Legislature of New York"
+url: http://www.gutenberg.org/ebooks/18196
