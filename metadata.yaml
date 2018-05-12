@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7870
     wikipedia: http://en.wikipedia.org/wiki/William_H._Seward
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18196#Life-and-Public-Services-of-John-Quincy-Adams--13-With-the-Eulogy-Delivered-Before-the-Legisl_
 gutenberg_issued: '2006-04-18'
 gutenberg_type: Text
 identifiers:
